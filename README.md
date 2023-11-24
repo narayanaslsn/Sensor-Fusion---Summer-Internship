@@ -5,3 +5,5 @@ The kalman Code contains the code for normal kalman filter algorithm for the fus
 
 The Error State Extended Kalman Filter contains the code for ESEKF and outputs the plot of ground truth vs prediction. The prediction is plotted to further extent as it was made for prediction when the ground truth is not available. The code imports 
 rotation.py which contains the necessary functions to perform on the ESEKF.
+
+All the results and discussions were done in the intern report thoroughly.
